@@ -121,13 +121,3 @@ export default {
   }
 };
 </script>
-
-          id="mG61Hd"
-          action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScuIMzoY86m7b2SKW9PvynR5wAJEeSfc9kNoqbdEsTygnhq3Q/formResponse"
-          target="_blank"
-          method="POST"
-
-          name="entry.1429357351"
-          name="entry.1429569306"
-          name="entry.925247241"
-          name="entry.1838964298"
